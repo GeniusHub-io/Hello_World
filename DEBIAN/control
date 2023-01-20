@@ -1,0 +1,6 @@
+Package: hello-world
+Version: 1.0
+Architecture: all
+Maintainer: GeniusHub-io
+Depends: bash
+Description: A simple Hello World script
